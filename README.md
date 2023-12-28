@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mohammed-inpt
-- 👀 I’m interested in Computer science and software engineering.
+- 👋 Hi, my name is Mohammed Benhammoute
+- 👀 I’m studying Computer science and software engineering.
 - 🌱 I’m currently learning Java, Git, WEB dev, OOP, Python ...
 
 <!---
